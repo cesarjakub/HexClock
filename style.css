@@ -2,14 +2,13 @@
     margin: 0;
     padding: 0;
     color: white;
-    background-color: black;
 }
 .MainClk{
     position: absolute;
     top: 50%;
-    right: 50%;
+    right: 45%;
 }
 .Mian_Clock{
-    font-size: xx-large;
+    font-size: 60px;
     font-family: 'Roboto', sans-serif;
 }
